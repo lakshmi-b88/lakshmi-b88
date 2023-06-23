@@ -40,9 +40,7 @@ Each and every repository will have a README.md file to describe  what the repos
 
  3) when you do a git push,git prompts you to enter the PAT and that's it bingo. you're authenticated.
 
-  PS : PAT is sensitive and is not supposed to be shared with anyone
-
-  ...
+  PS : PAT is sensitive and is not supposed to be shared 
 
  ...
 
