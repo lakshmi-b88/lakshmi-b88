@@ -1,2 +1,10 @@
 
 this repository is to accessls
+
+welcome to Batch54 cloud Devops training
+
+This is a repository to learn and automate the project using the bash scripting.
+
+Each and every repository will have a README.md file to describe  what the repository us.
+
+so ensure you maintain a good and descriptive readme.md file to facilitate others contribute to this repository.
