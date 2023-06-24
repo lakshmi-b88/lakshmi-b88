@@ -15,9 +15,10 @@
 
 #### how to run a linux bash script ?
 
-. bash scriptName.sh
-. sh scriptName.sh
-. ./ scriptName
+#. bash scriptName.sh
+#. sh scriptName.sh
+#. ./ scriptName
 
 
-type java : /bin/java
+echo Welcome to Batch54 Cloud Devops Training
+
