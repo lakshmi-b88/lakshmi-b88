@@ -16,7 +16,7 @@ echo value of variable the variable a is ${a}
 echo "value of the variable a is ${a}"
 echo "value of the variable d is ${d}"
 # if you try to print a variable that is not declared,bash will consider that as a null rather an error
-rm -rf /data/${Folder_To_DELETE} -> rm -rf /data
+
                              
 
 # "Double Quotes "
